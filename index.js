@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Privacy Policy</title>
+<style>
+body{
+  font-family: Helvetica, Arial, sans-serif;
+  padding:40px;
+  max-width:900px;
+  margin:auto;
+  line-height:1.7;
+  color:#222;
+}
+h2,h3{color:#111;}
+</style>
+</head>
+<body>
+
+<h2>Privacy Policy</h2>
+
+<p>This Privacy Policy applies to the following mobile applications developed by <strong>FkCreating</strong> ("Service Provider"):</p>
+
+<ul>
+<li>PTE Practice 2026: Exam Prep</li>
+<li>DET Practice 2026: Exam Prep</li>
+<li>IELTS Practice 2026: Exam Prep</li>
+<li>TOEFL Practice 2026: Exam Prep</li>
+<li>JLPT Practice 2026: Exam Prep</li>
+<li>HSK Practice 2026: Exam Prep</li>
+<li>TOPIK Practice 2026: Exam Prep</li>
+<li>TELC Practice 2026: Exam Prep</li>
+<li>Goethe Practice 2026 Exam Prep</li>
+<li>DELF Practice 2026: Exam Prep</li>
+<li>DELE Practice 2026: Exam Prep</li>
+</ul>
+
+<p>These applications are provided as <strong>ad-supported apps with optional in-app purchases</strong> and are intended for use "AS IS".</p>
+
+<h3>Information Collection and Use</h3>
+<p>The applications may automatically collect certain information when you download and use them. This information may include:</p>
+
+<ul>
+<li>Device IP address</li>
+<li>App usage data and interaction logs</li>
+<li>Time and date of use</li>
+<li>Device operating system</li>
+<li>General diagnostics data</li>
+</ul>
+
+<p>The applications do <strong>not collect precise location data</strong>.</p>
+
+<p><strong>The Service Provider does not directly collect personally identifiable information.</strong> However, the apps use third-party services (such as advertising and payment providers) that may automatically collect information used to identify users. Such data is handled according to their own privacy policies.</p>
+
+<h3>Third-Party Services</h3>
+<p>The applications use third-party services that may collect information. Their privacy policies can be reviewed here:</p>
+
+<ul>
+<li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li>
+<li><a href="https://support.google.com/admob/answer/6128543" target="_blank">AdMob</a></li>
+<li><a href="https://www.revenuecat.com/privacy" target="_blank">RevenueCat</a></li>
+</ul>
+
+<p>Information may be disclosed if required by law, to protect rights and safety, or to trusted service providers working on behalf of the Service Provider.</p>
+
+<h3>Opt-Out Rights</h3>
+<p>You can stop all data collection by uninstalling the applications using your device’s standard uninstall process.</p>
+
+<h3>Data Retention</h3>
+<p>The Service Provider does not store personal data. Any data collected by third-party services is retained according to their privacy policies.</p>
+
+<h3>Children’s Privacy</h3>
+<p>These applications are not directed to children under the age of 13. The Service Provider does not knowingly collect personal information from children.</p>
+
+<h3>Security</h3>
+<p>Reasonable administrative, technical, and physical safeguards are used to protect information.</p>
+
+<h3>Changes</h3>
+<p>This policy may be updated from time to time. Continued use of the applications constitutes acceptance of any changes.</p>
+
+<p><strong>Effective Date:</strong> 2026-02-11</p>
+
+<h3>Contact</h3>
+<p>If you have any questions regarding this Privacy Policy, contact:<br>
+<strong>fkcreating@gmail.com</strong></p>
+
+</body>
+</html>
